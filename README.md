@@ -78,4 +78,4 @@
 
 [Link](https://gitlab.com/)
 
-> Autoren: Alexander Riedel, Kevin Goldmann, Oleksandr Cherniaiev, Jan Obernberger![image](https://user-images.githubusercontent.com/52105660/203862225-1ab9c1a8-58a3-4639-b4cd-e17351831ac0.png)
+> Autoren: Alexander Riedel, Kevin Goldmann, Oleksandr Cherniaiev, Jan Obernberger!
