@@ -1,6 +1,6 @@
 # Was ist Git? 
 
-![GitLogo](bilder\0.png)
+![GitLogo](bilder/0.png)
 
 
     Git ist ein verteiltes Versionsverwaltungssystem für Dateien.
@@ -52,7 +52,7 @@
 	Updated die Remote Referenz über die Lokale Referenz. Hierbei wird die Änderung des letzten Commits an das urpsrüngliche Repository
 	weitergegeben.
 
-![GitDiagram](bilder\1.png)
+![GitDiagram](bilder/1.png)
 
 ## Netzbasierte Versionsverwaltung
 
