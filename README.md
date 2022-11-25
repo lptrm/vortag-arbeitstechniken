@@ -1,4 +1,6 @@
-# Was ist Git? 
+# Was ist Git?
+
+🦄
 
 ![GitLogo](bilder/0.png)
 
